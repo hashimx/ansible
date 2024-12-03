@@ -13,6 +13,7 @@
 #   - Anything defined under a host is assumed to be a var
 #   - You can enter hostnames or IP addresses
 #   - A hostname/IP can be a member of multiple groups
+#    Sample log
 
 # Ex 1: Ungrouped hosts, put them in 'all' or 'ungrouped' group, defines 4 hosts, one with 2 variables
 ##all:
